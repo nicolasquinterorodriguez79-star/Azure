@@ -11,10 +11,4 @@ def home():
 
 
 
-num = (input("ingrese el numero"))
-cifra = (input("ingrese la cifra"))
-cont = 0
-for i in num:
-    if (i==cifra):
-        cont=cont+1
-print("la cifra", cifra, "aparece", cont, "de veces")        
+     
